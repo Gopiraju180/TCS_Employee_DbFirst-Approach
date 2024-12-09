@@ -1,0 +1,6 @@
+@TCS_Employee_DbFirst_Approach_HostAddress = http://localhost:5151
+
+GET {{TCS_Employee_DbFirst_Approach_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
